@@ -1,0 +1,65 @@
+# Build results
+bin/
+obj/
+out/
+TestResults/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# Mac & OS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# JetBrains Rider
+.idea/
+*.iml
+
+# Dotnet artifacts
+project.lock.json
+artifacts/
+
+# Packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+.nuget/
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Coverage & Test output
+coverage/
+*.coverage
+*.coveragexml
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Publish output
+publish/
+
